@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to filter the grid using the outside combo box
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e142/)**
+<!-- run online end -->
 
 
 <p>This sample demonstrates how to filter the grid using the outside combobox and grid custom callbacks.</p><p><strong>See also:<br />
