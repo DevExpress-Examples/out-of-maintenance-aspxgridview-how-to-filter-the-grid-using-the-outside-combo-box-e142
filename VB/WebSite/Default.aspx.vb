@@ -5,7 +5,7 @@ Imports System.Configuration
 Imports System.Collections
 Imports System.Web
 Imports System.Web.Security
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 
 
 
